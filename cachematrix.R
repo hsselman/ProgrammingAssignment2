@@ -1,5 +1,3 @@
-setwd("D:/Data/hse21048/Documents/Coursera/R Programming/ProgrammingAssignment2")
-
 ## This file contains two functions.
 
 ## makeCacheMatrix defines a list of 4 functions based on matrix x
